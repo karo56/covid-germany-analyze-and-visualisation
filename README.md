@@ -13,3 +13,9 @@ The plots folder contains all of the graphs created for the analysis.
 The file Report.html contains all the graphs in the form of a coherent report.  
 The folder scripts contains a script to create each graph. The names of the plots coincide with the names of the scripts.  
 The file poster.pdf is a shorter, static version of the report in A0 format.
+
+Example plots:
+
+![Alt Text](https://github.com/karo56/covid-germany-analyze-and-visualisation/blob/main/plots/animated/map_cases.gif)
+
+![Alt Text](https://github.com/karo56/covid-germany-analyze-and-visualisation/blob/main/plots/animated/cases_deaths.gif)
